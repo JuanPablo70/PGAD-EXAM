@@ -43,7 +43,7 @@
 To download this project, you must run the following command down below.
 
 ```
-https://github.com/JuanPablo70/PGAD-EXAM.git
+git clone https://github.com/JuanPablo70/PGAD-EXAM.git
 ```
 
 Open Jupyter Notebook on your computer and open the ```MidtermExam.ipynb``` file.
